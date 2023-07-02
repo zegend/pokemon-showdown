@@ -1,4 +1,7 @@
 export const Aliases: {[alias: string]: string} = {
+	// custom formats
+	okl5: "[Gen 9] OKL Season 5",
+
 	// formats
 	randbats: "[Gen 9] Random Battle",
 	uber: "[Gen 9] Ubers",
