@@ -7,7 +7,7 @@ export const Formats: FormatList = [
 		threads: [
 			`&bullet; <a href="https://docs.google.com/spreadsheets/d/1i8GAUogh9yp4bgD0WMeNsuXRkmLk4m7cfgDsE6ba8UY/edit?usp=sharing" target="_blank">OKL Season 5 Sheet</a>`,
 		],
-		mod: 'gen9okl5',
+		mod: 'gen9nationaldexokl5',
 		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Clause', 'Species Clause', 'Sleep Clause Mod'],
 		banlist: [
 			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'King\'s Rock',
