@@ -4895,9 +4895,9 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	rillaboom: {
-		tier: "UU",
+		tier: "NU",
 		doublesTier: "DOU",
-		natDexTier: "OU",
+		natDexTier: "Illegal",
 	},
 	rillaboomgmax: {
 		isNonstandard: "Past",
