@@ -1,6 +1,6 @@
 export const Aliases: {[alias: string]: string} = {
 	// custom formats
-	gen9nationaldexokl5: "[Gen 9] National Dex - OKL S5",
+	gen9okl5: "[Gen 9] National Dex - OKL S5",
 
 	// formats
 	randbats: "[Gen 9] Random Battle",
