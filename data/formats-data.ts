@@ -322,7 +322,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	arcaninehisui: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	poliwag: {
 		tier: "Illegal",
@@ -418,7 +418,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	slowbrogalar: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	slowking: {
 		tier: "Illegal",
@@ -782,7 +782,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	articunogalar: {
-		tier: "Illegal",
+		tier: "RU",
 	},
 	zapdos: {
 		tier: "Illegal",
@@ -911,7 +911,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	azumarill: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	bonsly: {
 		tier: "Illegal",
@@ -1652,7 +1652,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	deoxysdefense: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	deoxysspeed: {
 		tier: "Illegal",
@@ -1783,7 +1783,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	lopunnymega: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	glameow: {
 		tier: "Illegal",
@@ -1861,7 +1861,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	abomasnow: {
-		tier: "Illegal",
+		tier: "RU",
 	},
 	abomasnowmega: {
 		tier: "Illegal",
@@ -2050,7 +2050,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	excadrill: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	audino: {
 		tier: "Illegal",
@@ -2065,7 +2065,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	conkeldurr: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	tympole: {
 		tier: "Illegal",
@@ -2125,10 +2125,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	basculegion: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	basculegionf: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	sandile: {
 		tier: "Illegal",
@@ -2381,7 +2381,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	bisharp: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	bouffalant: {
 		tier: "Illegal",
@@ -2453,10 +2453,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	landorustherian: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	kyurem: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	kyuremblack: {
 		tier: "Illegal",
@@ -2590,7 +2590,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	aegislash: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	aegislashblade: {
 	},
@@ -2737,7 +2737,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	dianciemega: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	hoopa: {
 		tier: "Illegal",
@@ -3042,7 +3042,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	tapulele: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	tapubulu: {
 		tier: "Illegal",
@@ -3075,7 +3075,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	celesteela: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	kartana: {
 		tier: "OU",
@@ -3246,7 +3246,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	appletun: {
-		tier: "Illegal",
+		tier: "RU",
 	},
 	appletungmax: {
 		tier: "Illegal",
@@ -3540,7 +3540,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	dondozo: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	veluza: {
 		tier: "Illegal",
@@ -3558,7 +3558,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	arboliva: {
-		tier: "Illegal",
+		tier: "RU",
 	},
 	capsakid: {
 		tier: "Illegal",
@@ -3600,7 +3600,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	baxcalibur: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	tatsugiri: {
 		tier: "Illegal",
@@ -3615,7 +3615,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	pawmot: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	wattrel: {
 		tier: "Illegal",
@@ -3720,7 +3720,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	ironvaliant: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	tinglu: {
 		tier: "Illegal",
@@ -3768,7 +3768,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	clodsire: {
-		tier: "Illegal",
+		tier: "UU",
 	},
 	annihilape: {
 		tier: "Illegal",
