@@ -2856,6 +2856,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	wishiwashischool: {
+		natDexTier: "RU",
 	},
 	mareanie: {
 		natDexTier: "Illegal",
