@@ -6,10 +6,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	venusaur: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	venusaurmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	venusaurgmax: {
 		natDexTier: "Illegal",
@@ -21,13 +21,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	charizard: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	charizardmegax: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	charizardmegay: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	charizardgmax: {
 		natDexTier: "Illegal",
@@ -39,7 +39,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	blastoise: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	blastoisemega: {
 		natDexTier: "Illegal",
@@ -54,7 +54,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	butterfree: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	butterfreegmax: {
 		natDexTier: "Illegal",
@@ -66,7 +66,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	beedrill: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	beedrillmega: {
 		natDexTier: "Illegal",
@@ -81,7 +81,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	pidgeotmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	rattata: {
 		natDexTier: "Illegal",
@@ -90,7 +90,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	raticate: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	raticatealola: {
 		natDexTier: "Illegal",
@@ -102,7 +102,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	fearow: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	ekans: {
 		natDexTier: "Illegal",
@@ -117,7 +117,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	pikachu: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pikachucosplay: {
 		natDexTier: "Illegal",
@@ -169,10 +169,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	raichu: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	raichualola: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sandshrew: {
 		natDexTier: "Illegal",
@@ -181,10 +181,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sandslash: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sandslashalola: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	nidoranf: {
 		natDexTier: "Illegal",
@@ -193,7 +193,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	nidoqueen: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	nidoranm: {
 		natDexTier: "Illegal",
@@ -202,7 +202,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	nidoking: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	cleffa: {
 		natDexTier: "Illegal",
@@ -214,16 +214,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	vulpix: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	vulpixalola: {
 		natDexTier: "Illegal",
 	},
 	ninetales: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	ninetalesalola: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	igglybuff: {
 		natDexTier: "Illegal",
@@ -232,16 +232,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	wigglytuff: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	zubat: {
 		natDexTier: "Illegal",
 	},
 	golbat: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	crobat: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	oddish: {
 		natDexTier: "Illegal",
@@ -250,10 +250,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	vileplume: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	bellossom: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	paras: {
 		natDexTier: "Illegal",
@@ -265,7 +265,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	venomoth: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	diglett: {
 		natDexTier: "Illegal",
@@ -274,10 +274,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	dugtrio: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dugtrioalola: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	meowth: {
 		natDexTier: "Illegal",
@@ -292,13 +292,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	persian: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	persianalola: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	perrserker: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	psyduck: {
 		natDexTier: "Illegal",
@@ -310,7 +310,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	primeape: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	growlithe: {
 		natDexTier: "Illegal",
@@ -319,7 +319,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	arcanine: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	arcaninehisui: {
 		natDexTier: "UU",
@@ -331,19 +331,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	poliwrath: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	politoed: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	abra: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	kadabra: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	alakazam: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	alakazammega: {
 		natDexTier: "Illegal",
@@ -352,10 +352,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	machoke: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	machamp: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	machampgmax: {
 		natDexTier: "Illegal",
@@ -367,13 +367,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	victreebel: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tentacool: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tentacruel: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	geodude: {
 		natDexTier: "Illegal",
@@ -388,10 +388,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	golem: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	golemalola: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	ponyta: {
 		natDexTier: "Illegal",
@@ -400,10 +400,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	rapidash: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rapidashgalar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	slowpoke: {
 		natDexTier: "Illegal",
@@ -412,28 +412,28 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	slowbro: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	slowbromega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	slowbrogalar: {
 		natDexTier: "UU",
 	},
 	slowking: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	slowkinggalar: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	magnemite: {
 		natDexTier: "Illegal",
 	},
 	magneton: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	magnezone: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	farfetchd: {
 		natDexTier: "Illegal",
@@ -442,13 +442,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sirfetchd: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	doduo: {
 		natDexTier: "Illegal",
 	},
 	dodrio: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	seel: {
 		natDexTier: "Illegal",
@@ -463,25 +463,25 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	muk: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mukalola: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	shellder: {
 		natDexTier: "Illegal",
 	},
 	cloyster: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	gastly: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	haunter: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gengar: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	gengarmega: {
 		natDexTier: "Illegal",
@@ -493,10 +493,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	steelix: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	steelixmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	drowzee: {
 		natDexTier: "Illegal",
@@ -508,7 +508,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	kingler: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	kinglergmax: {
 		natDexTier: "Illegal",
@@ -520,28 +520,28 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	electrode: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	electrodehisui: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	exeggcute: {
 		natDexTier: "Illegal",
 	},
 	exeggutor: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	exeggutoralola: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cubone: {
 		natDexTier: "Illegal",
 	},
 	marowak: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	marowakalola: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	marowakalolatotem: {
 		natDexTier: "Illegal",
@@ -550,55 +550,55 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	hitmonlee: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	hitmonchan: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	hitmontop: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	lickitung: {
 		natDexTier: "Illegal",
 	},
 	lickilicky: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	koffing: {
 		natDexTier: "Illegal",
 	},
 	weezing: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	weezinggalar: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	rhyhorn: {
 		natDexTier: "Illegal",
 	},
 	rhydon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rhyperior: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	happiny: {
 		natDexTier: "Illegal",
 	},
 	chansey: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	blissey: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	tangela: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tangrowth: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	kangaskhan: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	kangaskhanmega: {
 		natDexTier: "Illegal",
@@ -610,7 +610,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	kingdra: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	goldeen: {
 		natDexTier: "Illegal",
@@ -622,85 +622,85 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	starmie: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	mimejr: {
 		natDexTier: "Illegal",
 	},
 	mrmime: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mrmimegalar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mrrime: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	scyther: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	scizor: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	scizormega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	kleavor: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	smoochum: {
 		natDexTier: "Illegal",
 	},
 	jynx: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	elekid: {
 		natDexTier: "Illegal",
 	},
 	electabuzz: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	electivire: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	magby: {
 		natDexTier: "Illegal",
 	},
 	magmar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	magmortar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pinsir: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pinsirmega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	tauros: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	taurospaldeacombat: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	taurospaldeablaze: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	taurospaldeaaqua: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	magikarp: {
 		natDexTier: "Illegal",
 	},
 	gyarados: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	gyaradosmega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	lapras: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	laprasgmax: {
 		natDexTier: "Illegal",
@@ -719,67 +719,67 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	vaporeon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	jolteon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	flareon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	espeon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	umbreon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	leafeon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	glaceon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sylveon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	porygon: {
 		natDexTier: "Illegal",
 	},
 	porygon2: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	porygonz: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	omanyte: {
 		natDexTier: "Illegal",
 	},
 	omastar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	kabuto: {
 		natDexTier: "Illegal",
 	},
 	kabutops: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	aerodactyl: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	aerodactylmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	munchlax: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	snorlax: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	snorlaxgmax: {
 		natDexTier: "Illegal",
 	},
 	articuno: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	articunogalar: {
 		natDexTier: "RU",
@@ -788,22 +788,22 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	zapdosgalar: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	moltres: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	moltresgalar: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	dratini: {
 		natDexTier: "Illegal",
 	},
 	dragonair: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dragonite: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	mewtwo: {
 		natDexTier: "Illegal",
@@ -815,7 +815,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	mew: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	chikorita: {
 		natDexTier: "Illegal",
@@ -833,10 +833,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	typhlosion: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	typhlosionhisui: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	totodile: {
 		natDexTier: "Illegal",
@@ -845,7 +845,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	feraligatr: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	sentret: {
 		natDexTier: "Illegal",
@@ -857,7 +857,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	noctowl: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	ledyba: {
 		natDexTier: "Illegal",
@@ -875,22 +875,22 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	lanturn: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	togepi: {
 		natDexTier: "Illegal",
 	},
 	togetic: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	togekiss: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	natu: {
 		natDexTier: "Illegal",
 	},
 	xatu: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mareep: {
 		natDexTier: "Illegal",
@@ -899,10 +899,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	ampharos: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	ampharosmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	azurill: {
 		natDexTier: "Illegal",
@@ -917,7 +917,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sudowoodo: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	hoppip: {
 		natDexTier: "Illegal",
@@ -926,13 +926,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	jumpluff: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	aipom: {
 		natDexTier: "Illegal",
 	},
 	ambipom: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	sunkern: {
 		natDexTier: "Illegal",
@@ -944,7 +944,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	yanmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	wooper: {
 		natDexTier: "Illegal",
@@ -953,19 +953,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	quagsire: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	murkrow: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	honchkrow: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	misdreavus: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mismagius: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	unown: {
 		natDexTier: "Illegal",
@@ -977,58 +977,58 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	girafarig: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	farigiraf: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pineco: {
 		natDexTier: "Illegal",
 	},
 	forretress: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	dunsparce: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dudunsparce: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gligar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gliscor: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	snubbull: {
 		natDexTier: "Illegal",
 	},
 	granbull: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	qwilfish: {
 		natDexTier: "Illegal",
 	},
 	qwilfishhisui: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	overqwil: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	shuckle: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	heracross: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	heracrossmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	sneasel: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sneaselhisui: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	weavile: {
 		natDexTier: "Illegal",
@@ -1040,7 +1040,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	ursaring: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	ursaluna: {
 		natDexTier: "Illegal",
@@ -1049,31 +1049,31 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	magcargo: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	swinub: {
 		natDexTier: "Illegal",
 	},
 	piloswine: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mamoswine: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	corsola: {
 		natDexTier: "Illegal",
 	},
 	corsolagalar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cursola: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	remoraid: {
 		natDexTier: "Illegal",
 	},
 	octillery: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	delibird: {
 		natDexTier: "Illegal",
@@ -1082,46 +1082,46 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	mantine: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	skarmory: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	houndour: {
 		natDexTier: "Illegal",
 	},
 	houndoom: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	houndoommega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	phanpy: {
 		natDexTier: "Illegal",
 	},
 	donphan: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	stantler: {
 		natDexTier: "Illegal",
 	},
 	wyrdeer: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	smeargle: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	miltank: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	raikou: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	entei: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	suicune: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	larvitar: {
 		natDexTier: "Illegal",
@@ -1130,10 +1130,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	tyranitar: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	tyranitarmega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	lugia: {
 		natDexTier: "Illegal",
@@ -1142,7 +1142,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	celebi: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	treecko: {
 		natDexTier: "Illegal",
@@ -1151,16 +1151,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sceptile: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sceptilemega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	torchic: {
 		natDexTier: "Illegal",
 	},
 	combusken: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	blaziken: {
 		natDexTier: "Illegal",
@@ -1172,13 +1172,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	marshtomp: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	swampert: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	swampertmega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	poochyena: {
 		natDexTier: "Illegal",
@@ -1193,13 +1193,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	linoone: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	linoonegalar: {
 		natDexTier: "Illegal",
 	},
 	obstagoon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	wurmple: {
 		natDexTier: "Illegal",
@@ -1223,7 +1223,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	ludicolo: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	seedot: {
 		natDexTier: "Illegal",
@@ -1232,19 +1232,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	shiftry: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	taillow: {
 		natDexTier: "Illegal",
 	},
 	swellow: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	wingull: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pelipper: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	ralts: {
 		natDexTier: "Illegal",
@@ -1253,34 +1253,34 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	gardevoir: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gardevoirmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	gallade: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	gallademega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	surskit: {
 		natDexTier: "Illegal",
 	},
 	masquerain: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	shroomish: {
 		natDexTier: "Illegal",
 	},
 	breloom: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	slakoth: {
 		natDexTier: "Illegal",
 	},
 	vigoroth: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	slaking: {
 		natDexTier: "Illegal",
@@ -1301,19 +1301,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	exploud: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	makuhita: {
 		natDexTier: "Illegal",
 	},
 	hariyama: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	nosepass: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	probopass: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	skitty: {
 		natDexTier: "Illegal",
@@ -1322,16 +1322,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sableye: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sableyemega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	mawile: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mawilemega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	aron: {
 		natDexTier: "Illegal",
@@ -1340,28 +1340,28 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	aggron: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	aggronmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	meditite: {
 		natDexTier: "Illegal",
 	},
 	medicham: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	medichammega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	electrike: {
 		natDexTier: "Illegal",
 	},
 	manectric: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	manectricmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	plusle: {
 		natDexTier: "Illegal",
@@ -1370,19 +1370,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	volbeat: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	illumise: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	budew: {
 		natDexTier: "Illegal",
 	},
 	roselia: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	roserade: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gulpin: {
 		natDexTier: "Illegal",
@@ -1394,10 +1394,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sharpedo: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	sharpedomega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	wailmer: {
 		natDexTier: "Illegal",
@@ -1409,19 +1409,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	camerupt: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cameruptmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	torkoal: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	spoink: {
 		natDexTier: "Illegal",
 	},
 	grumpig: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	spinda: {
 		natDexTier: "Illegal",
@@ -1433,25 +1433,25 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	flygon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cacnea: {
 		natDexTier: "Illegal",
 	},
 	cacturne: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	swablu: {
 		natDexTier: "Illegal",
 	},
 	altaria: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	altariamega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	zangoose: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	seviper: {
 		natDexTier: "Illegal",
@@ -1466,37 +1466,37 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	whiscash: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	corphish: {
 		natDexTier: "Illegal",
 	},
 	crawdaunt: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	baltoy: {
 		natDexTier: "Illegal",
 	},
 	claydol: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	lileep: {
 		natDexTier: "Illegal",
 	},
 	cradily: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	anorith: {
 		natDexTier: "Illegal",
 	},
 	armaldo: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	feebas: {
 		natDexTier: "Illegal",
 	},
 	milotic: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	castform: {
 		natDexTier: "Illegal",
@@ -1508,7 +1508,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	castformsnowy: {
 	},
 	kecleon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	shuppet: {
 		natDexTier: "Illegal",
@@ -1517,19 +1517,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	banettemega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	duskull: {
 		natDexTier: "Illegal",
 	},
 	dusclops: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dusknoir: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tropius: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	chingling: {
 		natDexTier: "Illegal",
@@ -1538,10 +1538,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	absol: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	absolmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	snorunt: {
 		natDexTier: "Illegal",
@@ -1550,10 +1550,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	glaliemega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	froslass: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	spheal: {
 		natDexTier: "Illegal",
@@ -1562,19 +1562,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	walrein: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	clamperl: {
 		natDexTier: "Illegal",
 	},
 	huntail: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gorebyss: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	relicanth: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	luvdisc: {
 		natDexTier: "Illegal",
@@ -1583,10 +1583,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	shelgon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	salamence: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	salamencemega: {
 		natDexTier: "Illegal",
@@ -1598,31 +1598,31 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	metagross: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	metagrossmega: {
 		natDexTier: "Illegal",
 	},
 	regirock: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	regice: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	registeel: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	latias: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	latiasmega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	latios: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	latiosmega: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	kyogre: {
 		natDexTier: "Illegal",
@@ -1643,7 +1643,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	jirachi: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	deoxys: {
 		natDexTier: "Illegal",
@@ -1664,7 +1664,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	torterra: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	chimchar: {
 		natDexTier: "Illegal",
@@ -1673,7 +1673,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	infernape: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	piplup: {
 		natDexTier: "Illegal",
@@ -1682,7 +1682,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	empoleon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	starly: {
 		natDexTier: "Illegal",
@@ -1691,13 +1691,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	staraptor: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	bidoof: {
 		natDexTier: "Illegal",
 	},
 	bibarel: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	kricketot: {
 		natDexTier: "Illegal",
@@ -1712,19 +1712,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	luxray: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cranidos: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rampardos: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	shieldon: {
 		natDexTier: "Illegal",
 	},
 	bastiodon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	burmy: {
 		natDexTier: "Illegal",
@@ -1745,7 +1745,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	vespiquen: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pachirisu: {
 		natDexTier: "Illegal",
@@ -1754,7 +1754,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	floatzel: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	cherubi: {
 		natDexTier: "Illegal",
@@ -1768,19 +1768,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	gastrodon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	drifloon: {
 		natDexTier: "Illegal",
 	},
 	drifblim: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	buneary: {
 		natDexTier: "Illegal",
 	},
 	lopunny: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	lopunnymega: {
 		natDexTier: "OU",
@@ -1789,25 +1789,25 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	purugly: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	stunky: {
 		natDexTier: "Illegal",
 	},
 	skuntank: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	bronzor: {
 		natDexTier: "Illegal",
 	},
 	bronzong: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	chatot: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	spiritomb: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gible: {
 		natDexTier: "Illegal",
@@ -1816,7 +1816,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	garchomp: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	garchompmega: {
 		natDexTier: "Illegal",
@@ -1825,28 +1825,28 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	lucario: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	lucariomega: {
 		natDexTier: "Illegal",
 	},
 	hippopotas: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	hippowdon: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	skorupi: {
 		natDexTier: "Illegal",
 	},
 	drapion: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	croagunk: {
 		natDexTier: "Illegal",
 	},
 	toxicroak: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	carnivine: {
 		natDexTier: "Illegal",
@@ -1864,34 +1864,34 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	abomasnowmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	rotom: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rotomheat: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	rotomwash: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	rotomfrost: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rotomfan: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rotommow: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	uxie: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mesprit: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	azelf: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	dialga: {
 		natDexTier: "Illegal",
@@ -1906,7 +1906,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	heatran: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	regigigas: {
 		natDexTier: "Illegal",
@@ -1918,19 +1918,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	cresselia: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	phione: {
 		natDexTier: "Illegal",
 	},
 	manaphy: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	darkrai: {
 		natDexTier: "Illegal",
 	},
 	shaymin: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	shayminsky: {
 		natDexTier: "Illegal",
@@ -1939,7 +1939,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	victini: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	snivy: {
 		natDexTier: "Illegal",
@@ -1948,7 +1948,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	serperior: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	tepig: {
 		natDexTier: "Illegal",
@@ -1957,7 +1957,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	emboar: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	oshawott: {
 		natDexTier: "Illegal",
@@ -1966,10 +1966,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	samurott: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	samurotthisui: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	patrat: {
 		natDexTier: "Illegal",
@@ -1984,13 +1984,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	stoutland: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	purrloin: {
 		natDexTier: "Illegal",
 	},
 	liepard: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pansage: {
 		natDexTier: "Illegal",
@@ -2014,7 +2014,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	musharna: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pidove: {
 		natDexTier: "Illegal",
@@ -2023,13 +2023,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	unfezant: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	blitzle: {
 		natDexTier: "Illegal",
 	},
 	zebstrika: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	roggenrola: {
 		natDexTier: "Illegal",
@@ -2038,13 +2038,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	gigalith: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	woobat: {
 		natDexTier: "Illegal",
 	},
 	swoobat: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	drilbur: {
 		natDexTier: "Illegal",
@@ -2053,16 +2053,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	audino: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	audinomega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	timburr: {
 		natDexTier: "Illegal",
 	},
 	gurdurr: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	conkeldurr: {
 		natDexTier: "UU",
@@ -2074,13 +2074,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	seismitoad: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	throh: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sawk: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sewaddle: {
 		natDexTier: "Illegal",
@@ -2089,7 +2089,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	leavanny: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	venipede: {
 		natDexTier: "Illegal",
@@ -2098,31 +2098,31 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	scolipede: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	cottonee: {
 		natDexTier: "Illegal",
 	},
 	whimsicott: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	petilil: {
 		natDexTier: "Illegal",
 	},
 	lilligant: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	lilliganthisui: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	basculin: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	basculinbluestriped: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	basculinwhitestriped: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	basculegion: {
 		natDexTier: "UU",
@@ -2137,7 +2137,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	krookodile: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	darumaka: {
 		natDexTier: "Illegal",
@@ -2146,7 +2146,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	darmanitan: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	darmanitanzen: {
 	},
@@ -2156,22 +2156,22 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	darmanitangalarzen: {
 	},
 	maractus: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dwebble: {
 		natDexTier: "Illegal",
 	},
 	crustle: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	scraggy: {
 		natDexTier: "Illegal",
 	},
 	scrafty: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	sigilyph: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	yamask: {
 		natDexTier: "Illegal",
@@ -2180,28 +2180,28 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	cofagrigus: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	runerigus: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tirtouga: {
 		natDexTier: "Illegal",
 	},
 	carracosta: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	archen: {
 		natDexTier: "Illegal",
 	},
 	archeops: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	trubbish: {
 		natDexTier: "Illegal",
 	},
 	garbodor: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	garbodorgmax: {
 		natDexTier: "Illegal",
@@ -2213,16 +2213,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	zoroark: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	zoroarkhisui: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	minccino: {
 		natDexTier: "Illegal",
 	},
 	cinccino: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gothita: {
 		natDexTier: "Illegal",
@@ -2237,16 +2237,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	duosion: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	reuniclus: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	ducklett: {
 		natDexTier: "Illegal",
 	},
 	swanna: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	vanillite: {
 		natDexTier: "Illegal",
@@ -2255,13 +2255,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	vanilluxe: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	deerling: {
 		natDexTier: "Illegal",
 	},
 	sawsbuck: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	emolga: {
 		natDexTier: "Illegal",
@@ -2270,34 +2270,34 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	escavalier: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	foongus: {
 		natDexTier: "Illegal",
 	},
 	amoonguss: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	frillish: {
 		natDexTier: "Illegal",
 	},
 	jellicent: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	alomomola: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	joltik: {
 		natDexTier: "Illegal",
 	},
 	galvantula: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	ferroseed: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	ferrothorn: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	klink: {
 		natDexTier: "Illegal",
@@ -2306,7 +2306,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	klinklang: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tynamo: {
 		natDexTier: "Illegal",
@@ -2315,13 +2315,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	eelektross: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	elgyem: {
 		natDexTier: "Illegal",
 	},
 	beheeyem: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	litwick: {
 		natDexTier: "Illegal",
@@ -2330,82 +2330,82 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	chandelure: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	axew: {
 		natDexTier: "Illegal",
 	},
 	fraxure: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	haxorus: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	cubchoo: {
 		natDexTier: "Illegal",
 	},
 	beartic: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cryogonal: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	shelmet: {
 		natDexTier: "Illegal",
 	},
 	accelgor: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	stunfisk: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	stunfiskgalar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mienfoo: {
 		natDexTier: "Illegal",
 	},
 	mienshao: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	druddigon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	golett: {
 		natDexTier: "Illegal",
 	},
 	golurk: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pawniard: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	bisharp: {
 		natDexTier: "UU",
 	},
 	bouffalant: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rufflet: {
 		natDexTier: "Illegal",
 	},
 	braviary: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	braviaryhisui: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	vullaby: {
 		natDexTier: "Illegal",
 	},
 	mandibuzz: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	heatmor: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	durant: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	deino: {
 		natDexTier: "Illegal",
@@ -2414,34 +2414,34 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	hydreigon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	larvesta: {
 		natDexTier: "Illegal",
 	},
 	volcarona: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	cobalion: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	terrakion: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	virizion: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tornadus: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	tornadustherian: {
 		natDexTier: "Illegal",
 	},
 	thundurus: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	thundurustherian: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	reshiram: {
 		natDexTier: "Illegal",
@@ -2465,12 +2465,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	keldeo: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	keldeoresolute: {
+		natDexTier: "UU",
 	},
 	meloetta: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	genesect: {
 		natDexTier: "Illegal",
@@ -2494,7 +2495,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	chesnaught: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	fennekin: {
 		natDexTier: "Illegal",
@@ -2503,16 +2504,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	delphox: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	froakie: {
 		natDexTier: "Illegal",
 	},
 	frogadier: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	greninja: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	greninjaash: {
 		natDexTier: "Illegal",
@@ -2521,7 +2522,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	diggersby: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	fletchling: {
 		natDexTier: "Illegal",
@@ -2530,7 +2531,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	talonflame: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	scatterbug: {
 		natDexTier: "Illegal",
@@ -2539,13 +2540,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	vivillon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	litleo: {
 		natDexTier: "Illegal",
 	},
 	pyroar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	flabebe: {
 		natDexTier: "Illegal",
@@ -2557,37 +2558,37 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	florges: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	skiddo: {
 		natDexTier: "Illegal",
 	},
 	gogoat: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pancham: {
 		natDexTier: "Illegal",
 	},
 	pangoro: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	furfrou: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	espurr: {
 		natDexTier: "Illegal",
 	},
 	meowstic: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	meowsticf: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	honedge: {
 		natDexTier: "Illegal",
 	},
 	doublade: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	aegislash: {
 		natDexTier: "UU",
@@ -2598,58 +2599,58 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	aromatisse: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	swirlix: {
 		natDexTier: "Illegal",
 	},
 	slurpuff: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	inkay: {
 		natDexTier: "Illegal",
 	},
 	malamar: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	binacle: {
 		natDexTier: "Illegal",
 	},
 	barbaracle: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	skrelp: {
 		natDexTier: "Illegal",
 	},
 	dragalge: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	clauncher: {
 		natDexTier: "Illegal",
 	},
 	clawitzer: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	helioptile: {
 		natDexTier: "Illegal",
 	},
 	heliolisk: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	tyrunt: {
 		natDexTier: "Illegal",
 	},
 	tyrantrum: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	amaura: {
 		natDexTier: "Illegal",
 	},
 	aurorus: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	hawlucha: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	dedenne: {
 		natDexTier: "Illegal",
@@ -2664,22 +2665,22 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sliggoohisui: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	goodra: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	goodrahisui: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	klefki: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	phantump: {
 		natDexTier: "Illegal",
 	},
 	trevenant: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pumpkaboo: {
 		natDexTier: "Illegal",
@@ -2691,28 +2692,31 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	pumpkaboosuper: {
 	},
 	gourgeist: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gourgeistsmall: {
+		natDexTier: "RU",
 	},
 	gourgeistlarge: {
+		natDexTier: "RU",
 	},
 	gourgeistsuper: {
+		natDexTier: "RU",
 	},
 	bergmite: {
 		natDexTier: "Illegal",
 	},
 	avalugg: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	avalugghisui: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	noibat: {
 		natDexTier: "Illegal",
 	},
 	noivern: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	xerneas: {
 		natDexTier: "Illegal",
@@ -2728,25 +2732,25 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	zygarde10: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	zygardecomplete: {
 		natDexTier: "Illegal",
 	},
 	diancie: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	dianciemega: {
 		natDexTier: "OU",
 	},
 	hoopa: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	hoopaunbound: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	volcanion: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	rowlet: {
 		natDexTier: "Illegal",
@@ -2755,19 +2759,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	decidueye: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	decidueyehisui: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	litten: {
 		natDexTier: "Illegal",
 	},
 	torracat: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	incineroar: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	popplio: {
 		natDexTier: "Illegal",
@@ -2776,7 +2780,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	primarina: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	pikipek: {
 		natDexTier: "Illegal",
@@ -2791,19 +2795,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	gumshoos: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gumshoostotem: {
 		natDexTier: "Illegal",
 	},
 	grubbin: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	charjabug: {
 		natDexTier: "Illegal",
 	},
 	vikavolt: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	vikavolttotem: {
 	},
@@ -2811,25 +2815,25 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	crabominable: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	oricorio: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	oricoriopompom: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	oricoriopau: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	oricoriosensu: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cutiefly: {
 		natDexTier: "Illegal",
 	},
 	ribombee: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	ribombeetotem: {
 	},
@@ -2840,16 +2844,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	lycanroc: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	lycanrocmidnight: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	lycanrocdusk: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	wishiwashi: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	wishiwashischool: {
 	},
@@ -2857,19 +2861,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	toxapex: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	mudbray: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	mudsdale: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dewpider: {
 		natDexTier: "Illegal",
 	},
 	araquanid: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	araquanidtotem: {
 	},
@@ -2877,7 +2881,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	lurantis: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	lurantistotem: {
 		natDexTier: "Illegal",
@@ -2892,7 +2896,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	salazzle: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	salazzletotem: {
 		natDexTier: "Illegal",
@@ -2901,7 +2905,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	bewear: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	bounsweet: {
 		natDexTier: "Illegal",
@@ -2910,16 +2914,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	tsareena: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	comfey: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	oranguru: {
 		natDexTier: "Illegal",
 	},
 	passimian: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	wimpod: {
 		natDexTier: "Illegal",
@@ -2931,86 +2935,86 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	palossand: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pyukumuku: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	typenull: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	silvally: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallybug: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallydark: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallydragon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyelectric: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyfairy: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyfighting: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyfire: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyflying: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyghost: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallygrass: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyground: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyice: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallypoison: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallypsychic: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallyrock: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallysteel: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	silvallywater: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	minior: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	miniormeteor: {
 	},
 	komala: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	turtonator: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	togedemaru: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	togedemarutotem: {
 	},
 	mimikyu: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	mimikyutotem: {
 		natDexTier: "Illegal",
@@ -3019,13 +3023,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	bruxish: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	drampa: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dhelmise: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	jangmoo: {
 		natDexTier: "Illegal",
@@ -3034,18 +3038,18 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	kommoo: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	kommoototem: {
 	},
 	tapukoko: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	tapulele: {
 		natDexTier: "OU",
 	},
 	tapubulu: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	tapufini: {
 		natDexTier: "Illegal",
@@ -3063,7 +3067,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	nihilego: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	buzzwole: {
 		natDexTier: "Illegal",
@@ -3072,7 +3076,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	xurkitree: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	celesteela: {
 		natDexTier: "UU",
@@ -3081,10 +3085,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	guzzlord: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	necrozma: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	necrozmaduskmane: {
 		natDexTier: "Illegal",
@@ -3108,10 +3112,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	stakataka: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	blacephalon: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	zeraora: {
 		natDexTier: "Illegal",
@@ -3129,7 +3133,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	thwackey: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rillaboom: {
 		natDexTier: "OU",
@@ -3141,7 +3145,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	raboot: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cinderace: {
 		natDexTier: "Illegal",
@@ -3156,7 +3160,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	inteleon: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	inteleongmax: {
 		natDexTier: "Illegal",
@@ -3174,7 +3178,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	corviknight: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	corviknightgmax: {
 		natDexTier: "Illegal",
@@ -3186,7 +3190,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	orbeetle: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	orbeetlegmax: {
 		natDexTier: "Illegal",
@@ -3201,19 +3205,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	eldegoss: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	wooloo: {
 		natDexTier: "Illegal",
 	},
 	dubwool: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	chewtle: {
 		natDexTier: "Illegal",
 	},
 	drednaw: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	drednawgmax: {
 		natDexTier: "Illegal",
@@ -3222,16 +3226,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	boltund: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	rolycoly: {
 		natDexTier: "Illegal",
 	},
 	carkol: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	coalossal: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	coalossalgmax: {
 		natDexTier: "Illegal",
@@ -3240,7 +3244,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	flapple: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	flapplegmax: {
 		natDexTier: "Illegal",
@@ -3255,7 +3259,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	sandaconda: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sandacondagmax: {
 		natDexTier: "Illegal",
@@ -3271,13 +3275,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	barraskewda: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	toxel: {
 		natDexTier: "Illegal",
 	},
 	toxtricity: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	toxtricitygmax: {
 		natDexTier: "Illegal",
@@ -3289,7 +3293,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	centiskorch: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	centiskorchgmax: {
 		natDexTier: "Illegal",
@@ -3298,22 +3302,22 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	grapploct: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sinistea: {
 		natDexTier: "Illegal",
 	},
 	polteageist: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	hatenna: {
 		natDexTier: "Illegal",
 	},
 	hattrem: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	hatterene: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	hatterenegmax: {
 		natDexTier: "Illegal",
@@ -3322,10 +3326,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	morgrem: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	grimmsnarl: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	grimmsnarlgmax: {
 		natDexTier: "Illegal",
@@ -3334,37 +3338,37 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	alcremie: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	alcremiegmax: {
 		natDexTier: "Illegal",
 	},
 	falinks: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	pincurchin: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	snom: {
 		natDexTier: "Illegal",
 	},
 	frosmoth: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	stonjourner: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	eiscue: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	indeedee: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	indeedeef: {
 		natDexTier: "Illegal",
 	},
 	morpeko: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	morpekohangry: {
 	},
@@ -3372,25 +3376,25 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	copperajah: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	copperajahgmax: {
 		natDexTier: "Illegal",
 	},
 	dracozolt: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	arctozolt: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	dracovish: {
 		natDexTier: "Illegal",
 	},
 	arctovish: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	duraludon: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	duraludongmax: {
 		natDexTier: "Illegal",
@@ -3423,7 +3427,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	kubfu: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	urshifu: {
 		natDexTier: "Illegal",
@@ -3438,13 +3442,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	zarude: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	regieleki: {
 		natDexTier: "Illegal",
 	},
 	regidrago: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	glastrier: {
 		natDexTier: "Illegal",
@@ -3462,10 +3466,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	enamorus: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	enamorustherian: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	sprigatito: {
 		natDexTier: "Illegal",
@@ -3474,16 +3478,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	meowscarada: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	fuecoco: {
 		natDexTier: "Illegal",
 	},
 	crocalor: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	skeledirge: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	quaxly: {
 		natDexTier: "Illegal",
@@ -3492,40 +3496,40 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	quaquaval: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	lechonk: {
 		natDexTier: "Illegal",
 	},
 	oinkologne: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	oinkolognef: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tarountula: {
 		natDexTier: "Illegal",
 	},
 	spidops: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	nymble: {
 		natDexTier: "Illegal",
 	},
 	lokix: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	rellor: {
 		natDexTier: "Illegal",
 	},
 	rabsca: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	greavard: {
 		natDexTier: "Illegal",
 	},
 	houndstone: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	flittle: {
 		natDexTier: "Illegal",
@@ -3537,13 +3541,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	wugtrio: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	dondozo: {
 		natDexTier: "UU",
 	},
 	veluza: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	finizen: {
 		natDexTier: "Illegal",
@@ -3564,34 +3568,34 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	scovillain: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	tadbulb: {
 		natDexTier: "Illegal",
 	},
 	bellibolt: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	varoom: {
 		natDexTier: "Illegal",
 	},
 	revavroom: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	orthworm: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	tandemaus: {
 		natDexTier: "Illegal",
 	},
 	maushold: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	cetoddle: {
 		natDexTier: "Illegal",
 	},
 	cetitan: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	frigibax: {
 		natDexTier: "Illegal",
@@ -3603,10 +3607,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	tatsugiri: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	cyclizar: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	pawmi: {
 		natDexTier: "Illegal",
@@ -3621,82 +3625,82 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	kilowattrel: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	bombirdier: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	squawkabilly: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	flamigo: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	klawf: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	nacli: {
 		natDexTier: "Illegal",
 	},
 	naclstack: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	garganacl: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	glimmet: {
 		natDexTier: "Illegal",
 	},
 	glimmora: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	shroodle: {
 		natDexTier: "Illegal",
 	},
 	grafaiai: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	fidough: {
 		natDexTier: "Illegal",
 	},
 	dachsbun: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	maschiff: {
 		natDexTier: "Illegal",
 	},
 	mabosstiff: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	bramblin: {
 		natDexTier: "Illegal",
 	},
 	brambleghast: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	gimmighoul: {
 		natDexTier: "Illegal",
 	},
 	gholdengo: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	greattusk: {
 		natDexTier: "OU",
 	},
 	brutebonnet: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	sandyshocks: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	screamtail: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	fluttermane: {
 		natDexTier: "Illegal",
 	},
 	slitherwing: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	roaringmoon: {
 		natDexTier: "Illegal",
@@ -3708,13 +3712,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	ironhands: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	ironjugulis: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	ironthorns: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	ironbundle: {
 		natDexTier: "Illegal",
@@ -3723,13 +3727,13 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	tinglu: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	chienpao: {
 		natDexTier: "Illegal",
 	},
 	wochien: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	chiyu: {
 		natDexTier: "Illegal",
@@ -3747,25 +3751,25 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	tinkaton: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	charcadet: {
 		natDexTier: "Illegal",
 	},
 	armarouge: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	ceruledge: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	toedscool: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	toedscruel: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	kingambit: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	clodsire: {
 		natDexTier: "UU",
@@ -3777,7 +3781,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	ironleaves: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	missingno: {
 		isNonstandard: "Custom",
