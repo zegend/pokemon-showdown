@@ -66,10 +66,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	beedrill: {
-		natDexTier: "UU",
+		natDexTier: "UU", // not on draft list but mega is B
 	},
 	beedrillmega: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	pidgey: {
 		natDexTier: "Illegal",
@@ -1163,7 +1163,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	blaziken: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	blazikenmega: {
 		natDexTier: "Illegal",
@@ -1514,7 +1514,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	banette: {
-		natDexTier: "Illegal",
+		natDexTier: "UU", // not on draft list but mega is B
 	},
 	banettemega: {
 		natDexTier: "UU",
@@ -1547,7 +1547,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	glalie: {
-		natDexTier: "Illegal",
+		natDexTier: "UU", // not on draft list but mega is B
 	},
 	glaliemega: {
 		natDexTier: "UU",
