@@ -806,7 +806,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	mewtwo: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	mewtwomegax: {
 		tier: "Illegal",
@@ -1625,19 +1625,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	kyogre: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	kyogreprimal: {
 		tier: "Illegal",
 	},
 	groudon: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	groudonprimal: {
 		tier: "Illegal",
 	},
 	rayquaza: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	rayquazamega: {
 		tier: "Illegal",
@@ -1894,16 +1894,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	dialga: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	dialgaorigin: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	palkia: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	palkiaorigin: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	heatran: {
 		tier: "Illegal",
@@ -1912,10 +1912,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	giratina: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	giratinaorigin: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	cresselia: {
 		tier: "Illegal",
@@ -1936,7 +1936,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	arceus: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	victini: {
 		tier: "Illegal",
@@ -2420,7 +2420,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	volcarona: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	cobalion: {
 		tier: "Illegal",
@@ -2450,7 +2450,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	landorus: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	landorustherian: {
 		tier: "Illegal",
@@ -3096,7 +3096,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	magearna: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	marshadow: {
 		tier: "Illegal",
@@ -3405,19 +3405,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	zacian: {
-		tier: "Uber",
-	},
-	zaciancrowned: {
-		tier: "Uber",
-	},
-	zamazenta: {
 		tier: "Illegal",
 	},
+	zaciancrowned: {
+		tier: "Illegal",
+	},
+	zamazenta: {
+		tier: "OU",
+	},
 	zamazentacrowned: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	eternatus: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	eternatuseternamax: {
 		tier: "Illegal",
@@ -3426,10 +3426,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	urshifu: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	urshifurapidstrike: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	urshifugmax: {
 		tier: "Illegal",
@@ -3441,7 +3441,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	regieleki: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	regidrago: {
 		tier: "Illegal",
@@ -3450,16 +3450,16 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	spectrier: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	calyrex: {
 		tier: "Illegal",
 	},
 	calyrexice: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	calyrexshadow: {
-		tier: "AG",
+		tier: "Illegal",
 	},
 	enamorus: {
 		tier: "Illegal",
@@ -3531,7 +3531,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	espathra: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	wiglett: {
 		tier: "Illegal",
@@ -3549,7 +3549,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	palafin: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	smoliv: {
 		tier: "Illegal",
@@ -3693,7 +3693,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	fluttermane: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	slitherwing: {
 		tier: "Illegal",
@@ -3717,7 +3717,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	ironbundle: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	ironvaliant: {
 		tier: "Illegal",
@@ -3726,19 +3726,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	chienpao: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	wochien: {
 		tier: "Illegal",
 	},
 	chiyu: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	koraidon: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	miraidon: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	tinkatink: {
 		tier: "Illegal",
@@ -3771,7 +3771,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	annihilape: {
-		tier: "Uber",
+		tier: "Illegal",
 	},
 	walkingwake: {
 		tier: "Illegal",
