@@ -785,7 +785,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	zapdos: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	zapdosgalar: {
 		natDexTier: "OU",
@@ -1031,7 +1031,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	weavile: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	sneasler: {
 		natDexTier: "Illegal",
@@ -2930,7 +2930,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	golisopod: {
-		natDexTier: "Illegal",
+		natDexTier: "RU",
 	},
 	sandygast: {
 		natDexTier: "Illegal",
@@ -3053,7 +3053,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	tapufini: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	cosmog: {
 		natDexTier: "Illegal",
@@ -3071,7 +3071,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	buzzwole: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	pheromosa: {
 		natDexTier: "Illegal",
@@ -3119,7 +3119,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	zeraora: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	meltan: {
 		natDexTier: "Illegal",
@@ -3149,7 +3149,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "RU",
 	},
 	cinderace: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	cinderacegmax: {
 		natDexTier: "Illegal",
@@ -3434,7 +3434,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	urshifurapidstrike: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	urshifugmax: {
 		natDexTier: "Illegal",
@@ -3452,7 +3452,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "UU",
 	},
 	glastrier: {
-		natDexTier: "Illegal",
+		natDexTier: "UU",
 	},
 	spectrier: {
 		natDexTier: "Illegal",
@@ -3710,7 +3710,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU",
 	},
 	ironmoth: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	ironhands: {
 		natDexTier: "OU",
