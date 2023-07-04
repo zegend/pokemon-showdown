@@ -211,7 +211,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	clefable: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	vulpix: {
 		tier: "Illegal",
@@ -3078,7 +3078,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	kartana: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	guzzlord: {
 		tier: "Illegal",
@@ -3132,7 +3132,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	rillaboom: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	rillaboomgmax: {
 		tier: "Illegal",
@@ -3402,7 +3402,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	dragapult: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	zacian: {
 		tier: "Uber",
@@ -3681,7 +3681,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	greattusk: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	brutebonnet: {
 		tier: "Illegal",
