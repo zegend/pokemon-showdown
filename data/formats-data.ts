@@ -3707,7 +3707,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	irontreads: {
-		natDexTier: "Illegal",
+		natDexTier: "OU",
 	},
 	ironmoth: {
 		natDexTier: "Illegal",
