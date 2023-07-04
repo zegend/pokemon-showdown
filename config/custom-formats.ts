@@ -12,6 +12,7 @@ export const Formats: FormatList = [
 		banlist: [
 			'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'King\'s Rock',
 			'Quick Claw', 'Razor Fang', 'Assist', 'Baton Pass', 'Last Respects', 'Shed Tail',
+			'Hidden Power',
 		],
 	},
 ];
