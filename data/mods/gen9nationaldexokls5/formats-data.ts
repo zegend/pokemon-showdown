@@ -1292,6 +1292,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	shedinja: {
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	whismur: {
@@ -3653,6 +3654,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	glimmora: {
+		tier: "UU",
 		natDexTier: "UU",
 	},
 	shroodle: {
