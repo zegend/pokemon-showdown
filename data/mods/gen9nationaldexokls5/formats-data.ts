@@ -78,7 +78,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		natDexTier: "Illegal",
 	},
 	pidgeot: {
-		natDexTier: "Illegal",
+		natDexTier: "UU", // not on draft list but mega is B
 	},
 	pidgeotmega: {
 		natDexTier: "UU",
